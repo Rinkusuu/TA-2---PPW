@@ -1,0 +1,137 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h1, h2 {
+    color: #ff6347;
+}
+
+main {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #ff6347;
+}
+
+footer {
+    text-align: center;
+    margin-top: 25px;
+}
+
+a {
+    text-decoration: underline;
+    color: #ff6347;
+}
+
+button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #e55347;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    background: #1c1c1c;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    border: 4px solid #ff6347;
+}
+
+.biodata {
+    flex-grow: 1;
+}
+
+.biodata ul li {
+    padding: 6px 0;
+    border-bottom: 1px solid #444;
+}
+
+.moto {
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+    color: #ddd;
+    margin-top: 15px;
+    padding: 15px;
+    border: 2px solid #444;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 7px;
+}
+
+.rincian {
+    font-style: italic;
+    color: #ff6347;
+}
+
+form {
+    background: #1f1f1f;
+    padding: 25px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-weight: bold;
+    color: #ff6347;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #555;
+    border-radius: 6px;
+    background: #333;
+    color: white;
+}
+
+textarea {
+    resize: vertical;
+}
