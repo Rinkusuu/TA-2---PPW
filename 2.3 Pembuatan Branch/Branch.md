@@ -20,6 +20,8 @@ Jalankan perintah berikut untuk membuat branch dengan nama `experiment-styling`:
 git branch experiment-styling
 ```
 
+<img width="1095" height="381" alt="image" src="https://github.com/user-attachments/assets/3e8ea336-5bc3-433f-ba4e-ae4bfa540371" />
+
 ---
 
 ## 2. Pindah ke Branch Baru
@@ -29,6 +31,8 @@ git checkout experiment-styling
 ```
 
 > Setelah ini, kamu resmi berada di branch eksperimen.
+
+<img width="1114" height="383" alt="image" src="https://github.com/user-attachments/assets/5355ecf9-c37b-47d9-8618-e59e1f7a5b96" />
 
 ---
 
@@ -47,14 +51,18 @@ git add styles.css
 git commit -m "Eksperimen styling baru pada styles.css"
 ```
 
+<img width="1116" height="231" alt="image" src="https://github.com/user-attachments/assets/3428e144-c986-4573-a438-eb2a8ad82c87" />
+
 ---
 
-## 5. Kembali ke Branch Utama (main)
+## 5. Kembali ke Branch Utama (master)
 
 Jika sudah selesai bereksperimen:
 
 ```bash
-git checkout main
+git checkout master
 ```
+
+<img width="1111" height="380" alt="image" src="https://github.com/user-attachments/assets/d7cd7757-0cf6-4ac8-8038-7548210389b2" />
 
 ---
