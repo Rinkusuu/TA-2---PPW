@@ -35,7 +35,9 @@ git add 2315061026.jpeg
 git commit -m "Menambahkan asset gambar ke project"
 ```
 
-> Karena file gambar bukan perubahan kode, commit-nya dipisah untuk keteraturan dokumentasi.
+> Commit ini berfokus pada gambar yang akan ditampilkan di halaman utama portofolio.
+
+<img width="1113" height="384" alt="image" src="https://github.com/user-attachments/assets/6cd43a0a-1aa3-444c-8aaf-0192b3c23599" />
 
 ---
 
@@ -48,12 +50,6 @@ git commit -m "Menambahkan kritik_saran.html (halaman form Kritik & Saran)"
 
 > File ini dianggap sebagai section terpisah, sehingga dilakukan commit tersendiri.
 
+<img width="1114" height="378" alt="image" src="https://github.com/user-attachments/assets/8457a3ad-c556-4279-ac26-6731777d756f" />
+
 ---
-
-## 🎯 Tips Commit yang Baik
-
-* Commit hanya **1 bagian yang selesai**, bukan semuanya sekaligus.
-* Gunakan pesan commit yang **jelas dan spesifik**.
-* Hindari pesan seperti: `update file`, `fix`, `wip`.
-
-Dengan cara ini, riwayat commit akan jelas, rapi, dan mudah dipahami.
