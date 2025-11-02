@@ -2,7 +2,7 @@
 
 ---
 
-## ✅ 1. Pastikan Git Sudah Terinstall
+## 1. Pastikan Git Sudah Terinstall
 
 Sebelum memulai, cek apakah Git sudah terpasang di komputer.
 
@@ -14,7 +14,9 @@ Jika Git sudah terinstal dengan benar, perintah ini akan menampilkan versi Git.
 
 ---
 
-## ✅ 2. Buka Folder Project Portfolio
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/335c04e7-6460-439d-a98f-b3157f3a7568" />
+
+## 2. Buka Folder Project Portfolio
 
 Masuk ke folder tempat project portfolio kamu berada.
 
