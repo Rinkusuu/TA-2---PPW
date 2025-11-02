@@ -1,6 +1,6 @@
 # Membuat Branch untuk Eksperimen Styling Baru
 
-Dokumen ini berisi langkah membuat **branch baru** pada Git untuk melakukan eksperimen perubahan styling pada file `styles.css`, tanpa mengubah branch utama (`main`).
+Dokumen ini berisi langkah membuat **branch baru** pada Git untuk melakukan eksperimen perubahan styling pada file `styles.css`, tanpa mengubah branch utama (`master`).
 
 ---
 
