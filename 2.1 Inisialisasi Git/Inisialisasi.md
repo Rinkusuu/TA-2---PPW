@@ -20,22 +20,20 @@ Jika Git sudah terinstal dengan benar, perintah ini akan menampilkan versi Git.
 
 Masuk ke folder tempat project portfolio kamu berada.
 
-Contoh (Windows / CMD / PowerShell):
+## 3. Inisialisasi Git
+
+Jalankan perintah berikut di dalam folder project:
 
 ```bash
-cd C:\Users\NamaKamu\Documents\portfolio
+git init
 ```
 
-Contoh (MacOS / Linux terminal):
+**Penjelasan:**
 
-```bash
-cd ~/Documents/portfolio
-```
+* Perintah ini memberitahu Git untuk mulai melakukan version control pada folder project tersebut.
+* Setelah perintah dijalankan, Git akan membuat folder tersembunyi bernama **`.git/`** di dalam project.
+* Folder ini menyimpan semua informasi terkait version control seperti riwayat commit dan konfigurasi Git.
 
-> Perintah `cd` digunakan untuk berpindah direktori ke folder project.
+<img width="1479" height="760" alt="image" src="https://github.com/user-attachments/assets/5314ced0-f349-457b-9b92-b340fa3026de" />
 
----
-
-## ✅ 3. Inisialisasi Git
-
-Jalankan
+<img width="779" height="211" alt="image" src="https://github.com/user-attachments/assets/0d2c23ee-4269-433e-a464-4405db4c5b9e" />
