@@ -24,6 +24,8 @@ git commit -m "Menambahkan styles.css (file styling)"
 
 > Commit ini fokus hanya pada bagian styling.
 
+<img width="1114" height="247" alt="image" src="https://github.com/user-attachments/assets/33254491-2be6-415c-80ee-e9252a156da0" />
+
 ---
 
 ### 3. Commit untuk gambar `2315061026.jpeg`
